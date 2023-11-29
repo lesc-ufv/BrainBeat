@@ -1,3 +1,4 @@
 tuple filter=lfs diff=lfs merge=lfs -text
 */tuple filter=lfs diff=lfs merge=lfs -text
+**/ses-S001/eeg/tuple filter=lfs diff=lfs merge=lfs -text
 *tuple filter=lfs diff=lfs merge=lfs -text
